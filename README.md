@@ -25,4 +25,4 @@ $ nohup ./run.sh&
 or alternatively create a systemd unit (it depends on your own decision!), however donot forget that the `api.py` file should be ran at last.
 
 ## Credits
-thanks to ** Alireza Omidi ** for `ircalevents.py` from [iran-calendar-events](https://github.com/alirezaomidi/iran-calendar-events) which has been rewritten with async functions and added `get_year_events` functions by me :)
+thanks to **Alireza Omidi** for `ircalevents.py` from [iran-calendar-events](https://github.com/alirezaomidi/iran-calendar-events) which has been rewritten with async functions and added `get_year_events` functions by me :)
